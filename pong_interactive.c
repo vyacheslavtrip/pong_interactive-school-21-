@@ -153,5 +153,3 @@ int main() {
     endwin();
     return 0;
 }
-
-// gcc pong_interactive.c -lncurses -o pong
